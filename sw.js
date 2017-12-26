@@ -1,9 +1,9 @@
 var CACHE_NAME = 'my-site-cache-v13';
 var urlsToCache = [
-	'/',
-	'/main.css',
-	'/script.js',
-	'/bg.webp'
+	'./',
+	'./main.css',
+	'./script.js',
+	'./bg.webp'
 ];
 
 self.addEventListener('install', function (event) {
