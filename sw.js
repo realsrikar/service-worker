@@ -1,5 +1,5 @@
-var CACHE_NAME = 'my-site-cache-v19';
-var urlsToCache = [
+const CACHE_NAME = 'my-site-cache-v19';
+const urlsToCache = [
 	'./',
 	'./main.css',
 	'./script.js',
