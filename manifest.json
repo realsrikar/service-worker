@@ -1,0 +1,31 @@
+{
+  "name": "The Best Website evaa",
+  "short_name": "App",
+  "theme_color": "#003663",
+  "background_color": "#003663",
+  "display": "minimal-ui",
+  "Scope": "/",
+  "start_url": ".",
+  "icons": [  
+    {  
+      "src": "/192x192.jpeg",  
+      "sizes": "192x192",  
+      "type": "image/jpg"  
+    },  
+    {  
+      "src": "/256x256.jpeg",  
+      "sizes": "256x256",  
+      "type": "image/jpg"  
+    },  
+    {  
+      "src": "/384x384.jpeg",  
+      "sizes": "384x384",  
+      "type": "image/jpg"  
+    },  
+    {  
+      "src": "/512x512.jpeg",  
+      "sizes": "512x512",  
+      "type": "image/jpg"  
+    }
+  ]
+}
