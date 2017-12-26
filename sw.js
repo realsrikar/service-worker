@@ -1,7 +1,6 @@
 const CACHE_NAME = 'my-site-cache-v19';
 const urlsToCache = [
 	'./',
-	'./main.css',
 	'./script.js',
 	'./bg.webp'
 ];
