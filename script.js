@@ -11,5 +11,3 @@ if ('serviceWorker' in navigator) {
 } else {
 	console.log('Service worker not supported!')
 }
-
-chrome.runtime.getManifest
